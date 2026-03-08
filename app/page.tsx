@@ -157,7 +157,7 @@ export default function LandingPage() {
                 <div className="text-white/60">Real-time Monitoring</div>
               </div>
               <div className="bg-white/5 backdrop-blur-md rounded-2xl p-6 border border-white/10">
-                <div className="text-3xl font-bold text-white mb-2">99.99%</div>
+                <div className="text-3xl font-bold text-white mb-2">99.98%</div>
                 <div className="text-white/60">System Uptime</div>
               </div>
             </div>
